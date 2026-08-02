@@ -1,0 +1,17 @@
+# Python environment and temporary files
+.venv/
+__pycache__/
+*.pyc
+
+# Large medical dataset
+data/DOLCHID/
+
+# Generated model files and results
+checkpoints/
+logs/
+outputs/
+
+# Editor and Windows files
+.vscode/
+.DS_Store
+Thumbs.db
