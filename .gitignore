@@ -3,8 +3,8 @@
 __pycache__/
 *.pyc
 
-# Large medical dataset
-data/DOLCHID/
+# Dataset and cache
+data/
 
 # Generated model files and results
 checkpoints/
